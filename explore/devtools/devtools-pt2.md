@@ -1,0 +1,2 @@
+1. The bug was that it was adding the numbers together as strings and not actual integers. Screenshots located in expose/devtools/screenshots.
+2. I would fix the bug by using the parseInt() function to convert the strings to integers. Screenshots located in expose/devtools/screenshots.
